@@ -1,4 +1,4 @@
-https://github.com/MikeBeloborodov/posmotri_v_okno
+https://github.com/nikitaaav/posmotri_v_okno
 
 # Яндекс Практикум, практическая работа "Посмотри В Окно"
 
@@ -19,8 +19,7 @@ https://github.com/MikeBeloborodov/posmotri_v_okno
 
 ## Автор
 
-- Github - [Mike Beloborodov](https://github.com/MikeBeloborodov)
-- Frontend Mentor - [@MikeBeloborodov](https://www.frontendmentor.io/profile/MikeBeloborodov)
+- Github - [Nikita](https://github.com/nikitaaav)
 
 ## Благодарность
 
